@@ -1,2 +1,2 @@
-# RecipeApp
-A recipe app that allows you to find recipes based on the nutrients available. 
+# Barcode Scanner App
+A Barcode Scanner app that allows you to identify the product and it's nutrient composition. 
